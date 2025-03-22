@@ -1,0 +1,10 @@
+
+Date and time create: <2025-03-22, 13:11:53.471487>. Function's name: <hello_world>. Arguments: args=hasn't, kwargs=hasn't Returned value <Hello World>
+
+Date and time create: <2025-03-22, 13:11:53.471569>. Function's name: <summator>. Arguments: args=(2, 2), kwargs=hasn't Returned value <4>
+
+Date and time create: <2025-03-22, 13:11:53.471600>. Function's name: <div>. Arguments: args=(6, 2), kwargs=hasn't Returned value <3.0>
+
+Date and time create: <2025-03-22, 13:11:53.471569>. Function's name: <summator>. Arguments: args=(4.3,), kwargs={'b': 2.2} Returned value <6.5>
+
+Date and time create: <2025-03-22, 13:11:53.471569>. Function's name: <summator>. Arguments: args=hasn't, kwargs={'a': 0, 'b': 0} Returned value <0>
